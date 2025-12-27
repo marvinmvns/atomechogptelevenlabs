@@ -342,5 +342,4 @@ A typical interaction costs less than $0.01.
 
 ## License
 
-MIT
-# atomechogptelevenlabs
+
